@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/karurofficial/static/css/main.897e89e9.css",
+    "main.js": "/karurofficial/static/js/main.759218c3.js",
+    "static/js/453.551a5385.chunk.js": "/karurofficial/static/js/453.551a5385.chunk.js",
+    "static/media/Image3.jpeg": "/karurofficial/static/media/Image3.210b47f7192a951f0839.jpeg",
+    "static/media/Image1.jpeg": "/karurofficial/static/media/Image1.98cb4b3ad4fdfc24d0f6.jpeg",
+    "static/media/Image4.jpeg": "/karurofficial/static/media/Image4.da0f5039b4a8b20af0c4.jpeg",
+    "static/media/Image2.jpeg": "/karurofficial/static/media/Image2.89a67406dccb14b074c8.jpeg",
+    "index.html": "/karurofficial/index.html",
+    "main.897e89e9.css.map": "/karurofficial/static/css/main.897e89e9.css.map",
+    "main.759218c3.js.map": "/karurofficial/static/js/main.759218c3.js.map",
+    "453.551a5385.chunk.js.map": "/karurofficial/static/js/453.551a5385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897e89e9.css",
+    "static/js/main.759218c3.js"
+  ]
+}
